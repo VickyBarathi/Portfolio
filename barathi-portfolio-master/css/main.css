@@ -173,13 +173,17 @@ main {
     border-radius: 50%;
     border: #eece1a 3px solid; }
   .about-info .bio {
+    text-align: justify;
     grid-area: bio;
     font-size: 1.5rem; }
   .about-info .job-1 {
+    text-align: justify;
     grid-area: job1; }
   .about-info .job-2 {
+    text-align: justify;
     grid-area: job2; }
   .about-info .job-3 {
+    text-align: justify;
     grid-area: job3; }
   .about-info .job {
     background: #515151;
